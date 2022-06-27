@@ -1,0 +1,14 @@
+Let’s look at a calculator class. We have a calculator class that allows us to add, subtract, multiple, and divide doubles. It does not have attributes so use a default constructor.
+
+In the main method, ask for two doubles. Then print the sum, difference, product, and quotient.
+
+For example, your output should look like this:
+
+Enter two doubles:
+ 3.4
+ 1.6
+3.4 + 1.6 = 5.0
+3.4 - 1.6 = 1.7999999999999998
+3.4 * 1.6 = 5.44
+3.4 / 1.6 = 2.125
+
